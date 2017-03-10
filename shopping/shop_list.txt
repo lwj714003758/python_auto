@@ -1,0 +1,8 @@
+chaofan 10
+chaomian 9
+gaifan  15
+hmj 18
+tea 35
+cake 40
+water 5
+
